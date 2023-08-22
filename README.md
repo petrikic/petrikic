@@ -19,15 +19,13 @@ const profile = {
     age: 24,
     backend:  [
         Java: ["Spring"],
-        PHP: ["Laravel"], 
-        Javascript: ["Express"], 
-        CSharp: ["ASP.NET MVC"]
+        Javascript: ["Express"]
     ],
     frontend: [ 
         JS: ["Vuejs"], ["AngularJS"] 
         CSS: ["Materialize", "Vuetify", "Bootstrap"]
     ],
-    database: ["mongo", "MySql", "SQLite", "PostgreSQL"],
+    database: ["mongo", "MySql", "SQLite", "PostgreSQL", "Oracle SQL"],
     mobile: ["flutter", "Java"],
     devOps: ["docker" , "AWS", "GoogleCloud"],
     interests: [
