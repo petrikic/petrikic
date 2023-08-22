@@ -16,7 +16,6 @@
 ```javascript
 const profile = {
     name: "Cleriston Nantes Petrikic", 
-    age: 24,
     backend:  [
         Java: ["Spring"],
         Javascript: ["Express"]
