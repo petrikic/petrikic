@@ -24,9 +24,9 @@ const profile = {
         JS: ["Vuejs"], ["AngularJS"] 
         CSS: ["Materialize", "Vuetify", "Bootstrap"]
     ],
-    database: ["mongo", "MySql", "SQLite", "PostgreSQL", "Oracle SQL"],
-    mobile: ["flutter", "Java"],
-    devOps: ["docker" , "AWS", "GoogleCloud"],
+    database: ["mongo", "MySql", "SQLite", "PostgreSQL", "Oracle SQL"]
+    mobile: ["flutter", "Java"]
+    devOps: ["docker" , "AWS", "GoogleCloud"]
     interests: [
         "Web Development",
         "Mobile Development",
